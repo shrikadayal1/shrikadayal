@@ -7,18 +7,35 @@ B.Tech CSE & Business Systems @ VIT Vellore
 - AI/ML Enthusiast
 - Full-Stack Developer
 - Competitive Programmer
-- Interested in Software Engineering and Business Strategy
+- Passionate about Finance, Business Strategy, and Technology
+- Exploring the intersection of Artificial Intelligence, Software Engineering, and Financial Markets
 
 ## Skills
 
+### Programming
 - Python
 - C++
 - JavaScript
+- SQL
+
+### Web Development
+- HTML
+- CSS
 - React
 - Node.js
-- Machine Learning
+
+### AI / ML
 - TensorFlow
-- SQL
+- Scikit-Learn
+- Pandas
+- NumPy
+- OpenCV
+
+### Finance & Business
+- Financial Markets
+- Investment Analysis
+- Business Strategy
+- Data-Driven Decision Making
 
 ## Featured Projects
 
@@ -26,13 +43,23 @@ B.Tech CSE & Business Systems @ VIT Vellore
 AI-powered carbon footprint monitoring platform with patent progression across 5 stages.
 
 ### Emotion Detection System
-Deep learning based emotion detection system using facial expression analysis.
+Deep learning-based emotion detection system using facial expression analysis.
 
 ### DSA Roadmap Portal
-Interactive learning portal for Data Structures and Algorithms.
+Interactive platform for structured Data Structures & Algorithms learning.
 
-## Connect With Me
+## Achievements
 
-- LinkedIn: Add Your LinkedIn Here
-- Email: Add Your Email Here
-- LeetCode: Add Your LeetCode Profile Here
+- Patent-based Carbon Footprint Monitoring Project (5 Stages Completed)
+- Frontend Development Internship Experience
+- AI/ML Project Development
+- Competitive Programming & Problem Solving
+
+## Current Focus
+
+- Software Engineering
+- Artificial Intelligence
+- Full-Stack Development
+- Quantitative Finance
+- Financial Technology (FinTech)
+ 
