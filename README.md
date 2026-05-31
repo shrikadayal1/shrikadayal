@@ -36,17 +36,22 @@ B.Tech CSE & Business Systems @ VIT Vellore
 - Investment Analysis
 - Business Strategy
 - Data-Driven Decision Making
-
 ## Featured Projects
 
 ### Carbon Footprint Monitoring System
-AI-powered carbon footprint monitoring platform with patent progression across 5 stages.
+AI-powered carbon footprint monitoring platform with patent progression across 5 stages, enabling sustainability tracking and environmental impact analysis.
 
 ### Emotion Detection System
-Deep learning-based emotion detection system using facial expression analysis.
+Deep learning-based emotion detection system using facial expression analysis for real-time emotion recognition.
+
+### ATS Resume Analyzer
+Intelligent resume screening system that evaluates resumes against job descriptions, generates ATS scores, and provides personalized improvement recommendations.
+
+### UPI Fraud Detection System
+Machine learning-powered fraud detection platform that analyzes transaction patterns and identifies potentially fraudulent UPI transactions in real time.
 
 ### DSA Roadmap Portal
-Interactive platform for structured Data Structures & Algorithms learning.
+Interactive platform for structured Data Structures & Algorithms learning with curated resources and progress tracking.
 
 ## Achievements
 
